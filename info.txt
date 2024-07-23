@@ -1,0 +1,14 @@
+"PixelPaint" er en brukervennlig JavaFX-applikasjon designet for å lage og administrere pikselkunst. 
+Appen tilbyr et rutenettbasert lerret der brukerne kan tegne fargerik pikselkunst ved hjelp av et enkelt
+grensesnitt. Hver piksel på lerretet kan farges individuelt, noe som muliggjør intrikate design og 
+detaljerte illustrasjoner.
+
+Med PixelPaint kan brukerne enkelt male, viske ut og rydde piksler for å lage ønsket kunstverk. Appen 
+tilbyr også funksjoner for lagring og lasting av kunstverk, slik at brukerne kan lagre sine kreasjoner for 
+fremtidig referanse eller videre redigering. I tillegg tilbyr PixelPaint et praktisk filbehandlingssystem, 
+som lar brukerne organisere sine lagrede kunstverk effektivt.
+
+Enten du er en nybegynner som utforsker verdenen av pikselkunst eller en erfaren kunstner som leter etter 
+et lett og intuitivt tegneverktøy, tilbyr PixelPaint en allsidig plattform for å utløse kreativiteten din. 
+Med sitt stilrene design og enkle funksjonalitet gjør PixelPaint pikselkunstskaping tilgjengelig og 
+underholdende for brukere på alle ferdighetsnivåer.

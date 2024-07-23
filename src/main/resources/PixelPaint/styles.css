@@ -1,0 +1,31 @@
+
+#main {
+  -fx-background-color: #f0f0f0;
+  -fx-padding: 0;
+  -fx-spacing: 0;
+  -fx-margin: 0;
+}
+#gridpane {
+  -fx-background-color: #f0f0f0;
+  -fx-border-color: #000000; /* Set border color */
+  -fx-border-width: 1;
+}
+
+.pixel {
+  -fx-border-style: solid;
+  -fx-background-color: #ffffff;
+  -fx-border-radius: 0;
+  -fx-min-width: 30px;
+  -fx-min-height: 30px; 
+}
+.pixel:hover {
+  -fx-background-color: #979292;
+}
+#testButton{
+  -fx-background-color: #ff8800;
+  -fx-text-fill: #ffffff;
+  -fx-font-size: 20px;
+  -fx-font-weight: bold;
+  -fx-border-radius: 40px;
+  -fx-padding: 10px;
+}
